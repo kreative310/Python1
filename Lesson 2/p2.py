@@ -52,3 +52,23 @@ print(contact_info)
 
 del contact_info ["Blerta"]
 print(contact_info)
+
+keys = contact_info.keys()
+
+print(keys)
+
+#print only the keys of the dictionary
+
+keys = contact_info.keys()
+
+print(keys)
+
+values = contact_info.values()
+print(values)
+
+
+#print items
+
+items = contact_info.items()
+print(items)
+
