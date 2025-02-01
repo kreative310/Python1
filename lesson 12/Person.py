@@ -1,6 +1,6 @@
 from abc importABC, abstractmethod
 
-class PersoN (ABC):
+class PersoNnn (ABC):
     def __innit__(self, name,age,weight,height):
         self.name = name
         self.age = age
