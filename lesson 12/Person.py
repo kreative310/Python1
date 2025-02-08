@@ -13,7 +13,7 @@ def weight(self):
 
 @property
 def height(self):
-    return self.weight
+    return self.height
 
 @weight.setter
 def weight(self, value):
