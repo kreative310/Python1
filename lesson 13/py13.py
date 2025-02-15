@@ -22,4 +22,4 @@ sales_series = pd.series(sales, index=idxmax)
 
 best_selling_product = sales_series.idxmax()
 print(best_selling_products)
-
+##
