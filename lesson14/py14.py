@@ -21,7 +21,7 @@ plt.show()
 #
 # filtered_df = df[df['Average IQ'] >= 100]
 #
-# filtered_df = filtered_df.sort_values(by="Avergae IQ", ascending=False)
+# filtered_df = filtered_df.sort_values(by="Average IQ", ascending=False)
 #
 # print(filtered_df)
 #
@@ -29,7 +29,7 @@ plt.show()
 #
 # bars = plt.bar(filtered_df['Country'], filtered_df['Average IQ'], color="pink")
 #
-# plttitle("Average IQ by Countr" (IQ >= 100), fontsize=16)
+# plttitle("Average IQ by Country" (IQ >= 100), fontsize=16)
 #
 # plt.xlabel('Country', fontsixe=14)
 # plt.ylabel('Average IQ', fontsixe=14)
